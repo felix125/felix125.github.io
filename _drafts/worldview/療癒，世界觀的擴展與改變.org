@@ -1,0 +1,16 @@
+#+TITLE: 療癒，世界觀的擴展與改變(未完成)
+#+DATE: <2017-09-05 Tue>
+#+AUTHOR: 張昌衡 (Felix Chang)
+#+EMAIL: funal.zhang@gmail.com
+#+VERSION: 0.3
+#+options: toc:nil
+
+#+TOC: headlines 2
+
+#+include: ./1_目錄.org
+#+include: ./2_序言.org
+#+include: ./3_來自康復者的啟示.org
+#+include: ./4_研究方法的困惑.org
+#+include: ./5_科學的本質.org
+#+include: ./6_療癒_一個新的假設.org
+#+include: ./7_癌症不是絕症.org
